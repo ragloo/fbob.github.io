@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Random thoughts on the universe and lots of coffee."
 title_separator          : "-"
-name                     : "fbob\\François Beaubert"
+name                     : "fbob"
 description              : "Collection of random notes on Turbulence, CFD, Python ... fueled by lots of coffee."
 url                      : "https://fbob.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -61,7 +61,7 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Fbob"
+  name             : "Fbob\nFrançois Beaubert"
   avatar           : "coffee_1.jpg"
   bio              : "Collection of random notes on Turbulence, CFD, Python ... fueled by lots of coffee."
   location         : "Just behind"
