@@ -204,3 +204,13 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+      header:
+        image: landscape.jpg
+        caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
